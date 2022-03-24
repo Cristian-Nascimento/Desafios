@@ -4,6 +4,7 @@
     height: 200px;
 }
 
-#link{
-    
+.link{
+    text-decoration: none;
+    color: black;
 }
